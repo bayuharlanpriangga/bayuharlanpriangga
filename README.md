@@ -23,11 +23,11 @@ Accounting Student & Tech Builder — building the **Orias Ecosystem**. Focused 
 ---
 
 ### 🎮 Gaming Corner (Mobile Legends: Bang Bang)
-- **ID & Username:** `Isi ID (Server)` | `Isi Username`
+- **ID & Username:**  `Oriαs ★`
 - **Main Roles / Lane:** Gold Lane / Mid Lane
-- **Highest Rank:** `Isi Rank Tertinggi (misal: Mythical Glory)`
-- **Total Skins:** `Isi Jumlah Skin`
-- **Top 5 Heroes:** `Hero 1` • `Hero 2` • `Hero 3` • `Hero 4` • `Hero 5`
+- **Highest Rank:** `Mythic Immortal 157`
+- **Total Skins:** `692`
+- **Top 5 Heroes:** `Lunox` • `Lesley` • `Gusion` • `Kagura` • `Natalia`
 
 ---
 
@@ -41,6 +41,6 @@ Accounting Student & Tech Builder — building the **Orias Ecosystem**. Focused 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bayuharlanpriangga)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BayuHarlanP)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bayuharlanpriangga)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bayuharlanpriangga)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bayu.harlanpriagga)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayuharlanpriangga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bayuharlanpriangga@gmail.com)
